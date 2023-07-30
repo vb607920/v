@@ -1,0 +1,42 @@
+.home{
+	height: 100vh;
+	background-image: url(../img/um.jpg);
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.home_infos{
+	background-color: white;
+	padding: 30px;
+	border-radius: 20px;
+	text-align: center;
+	color: #1b1833;
+}
+
+.infos_texto{
+	font-size: 24px;
+	font-family: "pacifico", cursive;
+	margin-top: 22px;
+}
+
+.infos_titulo{
+	font-size: 36px;
+	font-family: "Rubik Bubbles", cursive;
+	margin-top: 28px;
+	font-weight: block;
+}
+
+.infos_botao{
+	text-decoration: none;
+	color: white;
+	background-color:  #1b1833;
+	padding: 12px 22px;
+	display: inline-block;
+	font-size: 33px;
+	border-radius: 20px;
+	margin-top: 30px;
+    font-family: "pacifico", cursive;
+}

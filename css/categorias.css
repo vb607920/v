@@ -1,0 +1,62 @@
+.categorias{
+	color: white;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.categorias_titulo{
+	font-size: 45px;
+	font-weight: bold;
+	margin-bottom: 25px;
+
+	justify-content: center;
+
+display: flex;
+}
+
+.caixa_maior{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 900px;
+	border:20px;
+}
+
+.caixa_interna{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	gap: 20px;
+	padding: 40px;
+	border: 1px solid white;
+	margin-top: 1px;
+}
+
+.titulo_interno{
+	font-size: 30px;
+}
+
+.texto_interno{
+	text-align: center;
+	line-height: 1.5
+	font-size: 12px;
+}
+
+.botao_interno{
+	background-color: transparent;
+	border: 2px solid white;
+	padding: 10px 20px;
+	font-size: 14px;
+	font-weight: bold;
+	color: white;
+	border-radius: 8px;
+}
+
+
+
+
+ 

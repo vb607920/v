@@ -1,0 +1,37 @@
+    .sobre{
+    	align-items: center;
+    	justify-content: center;
+    }
+	.sobre_info{
+	align-items: center;
+	background-attachment: fixed;
+	background-image: url(../img/a.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	border-radius: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 30px;
+	font-weight: bold;
+	height: 75vh;
+	line-height: 1.6;
+	margin-bottom: 15px;
+
+	}
+   
+.sobre_titulo{
+	font-weight: block;
+text-align: center;
+
+
+}
+
+.sobre_texto{
+	
+	font-weight: 250px;
+	margin-bottom: 12px;
+
+}
